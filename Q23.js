@@ -1,0 +1,16 @@
+var n1 = 1;
+var n2 = 2;
+console.log(n1 > n2);
+console.log(n1 < n2);
+console.log(n1 == n2);
+console.log(n1 != n2);
+var c = "ali";
+console.log(c == 'ahmed');
+console.log(c != "ayan");
+console.log(c == "ali");
+var a1 = [1, 3, 5];
+var a2 = [1, 2, 3];
+console.log(a1.length > a2.length);
+console.log(a1.length == a2.length);
+console.log(a1[1] == a2[2]);
+console.log(a1[2] == a2[2]);
